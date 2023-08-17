@@ -22,4 +22,6 @@ Both ABC and XYZ classifications provide valuable insights into inventory manage
 Immersive Dashboard: The dashboard is designed to provide an immersive experience, featuring a variety of visual elements such as **cards, tables, area charts, gauges, and donut charts**. These elements collectively offer a holistic view of inventory-related metrics.
 
 **Moving Average Forecasting**: The dashboard incorporates a moving average forecasting technique for weekly sales and profit. This interactive forecasting is powered by **DAX (Data Analysis Expressions)** to provide insights for proactive planning and decision-making.
+
+
 ![image](https://github.com/meetj6897/E_commerce_power_bi/assets/101456221/d7481507-170c-4eb0-89a0-26c526d6be8a)
