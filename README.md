@@ -24,4 +24,5 @@ Immersive Dashboard: The dashboard is designed to provide an immersive experienc
 **Moving Average Forecasting**: The dashboard incorporates a moving average forecasting technique for weekly sales and profit. This interactive forecasting is powered by **DAX (Data Analysis Expressions)** to provide insights for proactive planning and decision-making.
 
 
-![image](https://github.com/meetj6897/E_commerce_power_bi/assets/101456221/d7481507-170c-4eb0-89a0-26c526d6be8a)
+![image](https://github.com/meetj6897/E_commerce_power_bi/assets/101456221/d6dee47f-4c0d-492d-89ca-6e3bfad3f55b)
+
